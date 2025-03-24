@@ -8,4 +8,4 @@ Este repositorio analiza tres aplicaciones de IA en sectores distintos, evaluand
 3. **[Youper](Youper.md)**: Asistente de salud mental con IA (Bienestar).  
 
 ## Presentación Destacada  
-Ver [Presentacion_IA.pdf](Presentacion_IA.pdf) para un análisis técnico de **Plantix**. 
+Ver [Presentacion_IA.odt](PresentacionIA.odt) para un análisis técnico de **Plantix**. 
